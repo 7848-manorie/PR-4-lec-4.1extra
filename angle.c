@@ -1,6 +1,6 @@
 #include<stdio.h>
 void main(){
-    float a,b,c;
+    float a=90,b,c;
     printf("First angle is:");
     scanf("%f",&a);
     printf("Second angle is:");
